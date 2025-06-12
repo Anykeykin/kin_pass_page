@@ -1,22 +1,25 @@
 # Kin Pass – Support
 
-Welcome to Kin Pass support!
-
-If you are experiencing any issues or have questions, please refer to our documentation below.
+Welcome to the support page for **Kin Pass**.
 
 ---
 
-## FAQ
+## Frequently Asked Questions
 
-**Q:** Where is my data stored?  
-**A:** All your data is stored locally on your device and encrypted.
+### Where is my data stored?
 
-**Q:** How can I reset my master password?  
-**A:** If you lose access to the master password, there is no way to recover it. This is by design for security.
+All your data is stored locally on your device. We do not collect or upload your information to external servers.
 
-**Q:** How do I delete all my data?  
-**A:** Open the app → Settings → Delete all passwords.
+### I forgot my master password. What can I do?
+
+If you forget your master password, your data cannot be recovered for security reasons. You will need to delete the app and reinstall it to start over.
+
+### How can I delete all my data?
+
+Open the app → Settings → Delete all passwords.
 
 ---
 
-More updates will be available soon.
+## Need More Help?
+
+You can reach us at [support@kinpass.app](mailto:gamespiritgamer@gmail.com)
